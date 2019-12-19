@@ -6,18 +6,18 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: "姚信的技术专栏"
+title: "大强的小窝"
 brief-intro: "System Research"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://XinYao1994.github.io" # the base hostname & protocol for your site
+baseurl: "" #could I help you?
+url: "https://Hmengchao.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
 # other links
 twitter_username: #gaohaoyang126
 facebook_username: #gaohaoyang.water
-github_username:  XinYao1994
-email: u3004330@connect.hku.hk
+github_username:  Hmengchao
+email: 320830264@qq.com
 weibo_username: 
 zhihu_username: 
 linkedIn_username: xinyao1994
